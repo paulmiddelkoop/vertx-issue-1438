@@ -1,0 +1,6 @@
+{
+    "main": "io.vertx.core.ServiceVerticle",
+    "options": {
+        "worker": true
+    }
+}
